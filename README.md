@@ -8,4 +8,4 @@ Summary of the other files:
 * <i>Classifier.py</i> - Runs the entire project, starting with cleaning the data set of reviews
 * <i>NaiveBayes.py</i> - Our implementation of the Naive Bayes classifier
 * <i>knn.py</i> - Beginning of the implementation of the k-Nearest Neighbors classifier
-* Various <i>.tsv</i> and <i>.csv</i> - test and training data files
+* Various <i>.tsv</i> and <i>.csv</i> files - test and training data files
